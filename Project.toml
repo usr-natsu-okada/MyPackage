@@ -1,0 +1,7 @@
+name = "MyPackage"
+uuid = "447b64e2-64e8-41ac-8767-cd02ff74e950"
+authors = ["natsuki <natsuki.okada77@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
